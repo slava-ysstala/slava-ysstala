@@ -22,7 +22,5 @@ Frontend-разочарованный, JavaScript-ломастер и челов
 
 ## 😂 Мемы настроения
 
-![мем](./mem1.jpg)
-![мем](./mem1.jpg)
-![мем](./mem1.jpg)
-![мем](./mem1.jpg)
+<img src='mem1.jpg' width=300> <img src='mem2.jpg' width=300>
+<img src='mem3.jpg' width=300> <img src='mem4.jpg' width=300>
