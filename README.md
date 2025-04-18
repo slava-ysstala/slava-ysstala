@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Привет! Я — slava
 
-<!--
-**slava-ysstala/slava-ysstala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разочарованный, JavaScript-ломастер и человек, чьё имя в журналах преподавателей звучит чаще, чем его в реальной жизни.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+
+![Коммиты](https://github-readme-stats.vercel.app/api?username=slava-ysstala&show_icons=true&theme=default)
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=slava-ysstala&layout=compact)
+
+---
+
+## 🧠 Немного обо мне
+
+- 🎓 Студент, попытавшийся отчислиться ещё до начала занятий
+- 💻 Люблю Minecraft больше чем фронтенд и верстку презентаций
+- 🌱 Сейчас осваиваю адаптивную вёрстку, Git и GitHub Pages
+- 🎯 Цель: найти цель
+
+---
+
+## 😂 Мемы настроения
+
+![мем](./mem1.jpg)
+![мем](./mem1.jpg)
+![мем](./mem1.jpg)
+![мем](./mem1.jpg)
