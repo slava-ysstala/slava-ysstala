@@ -22,5 +22,5 @@ Frontend-разочарованный, JavaScript-ломастер и челов
 
 ## 😂 Мемы настроения
 
-<img src='mem1.jpg' height=200> <img src='mem2.jpg' height=200>
-<img src='mem3.jpg' height=200> <img src='mem4.jpg' height=200>
+<img src='mem1.jpg' width=24%> <img src='mem2.jpg' width=24%>
+<img src='mem3.jpg' width=24%> <img src='mem4.jpg' width=24%>
